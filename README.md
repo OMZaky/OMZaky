@@ -1,5 +1,5 @@
 ## Hi there 👋
-i am omar zaky, Computer Engineering Grdauate from Ain Shams University. i love PCs and i make builds in my freetime.
+i am Omar Zaky, Computer Engineering Grdauate from Ain Shams University. i love PCs and i make builds in my freetime.
 <!--
 **OMZaky/OMZaky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
