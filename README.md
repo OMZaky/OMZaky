@@ -15,7 +15,7 @@
 
 ## 🛠 Technologies & Tools
 
-* **Languages:** C++, SQL
+* **Languages:** C++, SQL, Java, Python
 * **Tools:** Git, GitHub, Visual Studio, VS Code
 * **Data Analysis:** IBM SPSS, MATLAB
 
