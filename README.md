@@ -1,16 +1,50 @@
-## Hi there 👋
-i am Omar Zaky, Computer Engineering Grdauate from Ain Shams University. i love PCs and i make builds in my freetime.
-<!--
-**OMZaky/OMZaky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Zaky 👋
 
-Here are some ideas to get you started:
+🎓 Computer Science student (Semester 4)
+💻 Interested in software engineering, databases, and system design
+📍 Currently studying core computer science topics including algorithms, operating systems, artificial intelligence, and compilers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Current Coursework
+
+* Artificial Intelligence
+* Database Systems Design
+* Advanced Algorithms & Complexity
+* Operating Systems
+* Compiler Design
+* Signals and Systems
+
+## 🛠 Technologies & Tools
+
+* **Languages:** C++, SQL
+* **Tools:** Git, GitHub, Visual Studio, VS Code
+* **Data Analysis:** IBM SPSS, MATLAB
+
+## 📚 Computer Science Foundations
+
+Through my coursework and projects I have experience with:
+
+* Data Structures & Problem Solving
+* Object-Oriented Programming
+* Logic Design & Computer Organization
+* Software Engineering
+* Probability & Statistics
+* Discrete Mathematics
+
+## 🚀 Interests
+
+* Backend development
+* Database architecture
+* Systems programming
+* Software engineering principles
+* Building real-world software systems
+
+## 📈 Current Goals
+
+* Build more practical software projects
+* Improve algorithmic problem solving
+* Learn professional development workflows (Git, CI/CD, cloud)
+* Explore system architecture and scalable applications
+
+## 📫 Connect
+
+* GitHub: https://github.com/OMZaky
