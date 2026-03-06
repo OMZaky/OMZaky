@@ -63,5 +63,4 @@ My coursework and projects have provided me with a solid foundation across multi
 ## 📫 Connect with Me
 
 * **GitHub:** [@OMZaky](https://github.com/OMZaky)  
-* **LinkedIn:** [Your LinkedIn URL] (optional)  
-* **Email:** [Your Email] (optional)  
+* **LinkedIn:** www.linkedin.com/in/zaky-omar
