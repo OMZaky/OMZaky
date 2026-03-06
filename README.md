@@ -1,50 +1,37 @@
-# Hi, I'm Zaky 👋
+### Hi there, I'm Zaky! 👋
 
-🎓 Computer Science student (Semester 4)
-💻 Interested in software engineering, databases, and system design
-📍 Currently studying core computer science topics including algorithms, operating systems, artificial intelligence, and compilers.
+I am a **Computer Engineering student** at Ain Shams University with a deep interest in how complex software systems are built, optimized, and scaled. My focus lies at the intersection of high-performance backend logic, database architecture, and hardware-level software design. 
 
-## 🧠 Current Coursework
+I enjoy tackling challenges that require a mix of low-level efficiency and high-level structural planning.
 
-* Artificial Intelligence
-* Database Systems Design
-* Advanced Algorithms & Complexity
-* Operating Systems
-* Compiler Design
-* Signals and Systems
+---
 
-## 🛠 Technologies & Tools
+### 💻 Technical Expertise
 
-* **Languages:** C++, SQL, Java, Python
-* **Tools:** Git, GitHub, Visual Studio, VS Code
-* **Data Analysis:** IBM SPSS, MATLAB
+* **Languages:** C++, SQL, Java, Python, VHDL
+* **Systems & Architecture:** Database System Design, Operating Systems, Compilers, MIPS Architecture
+* **Tools & Environments:** Git, GitHub, Visual Studio, VS Code, MATLAB, IBM SPSS
+* **Core Strengths:** Data Structures & Algorithms, Object-Oriented Programming (OOP), Software Engineering Principles, Signal Processing, Discrete Mathematics
 
-## 📚 Computer Science Foundations
+---
 
-Through my coursework and projects I have experience with:
+### 🚀 Featured Projects
 
-* Data Structures & Problem Solving
-* Object-Oriented Programming
-* Logic Design & Computer Organization
-* Software Engineering
-* Probability & Statistics
-* Discrete Mathematics
+* **[MIPS-Processor](https://github.com/OMZaky/MIPS-Processor)** – A custom-designed MIPS processor implemented in **VHDL**, focusing on instruction formats, register files, and control unit logic.
+* **[EventHub](https://github.com/OMZaky/EventHub)** – An Object-Oriented Event Management System built for hotels, utilizing **Java** and **CSS**.
+* **[Triage-App](https://github.com/OMZaky/Triage-App)** – A desktop triage management application bridging a **Python** frontend with a high-performance **C++** backend.
+* **[Tripzy](https://github.com/OMZaky/Tripzy)** – A comprehensive travel booking application architected for handling hotels, flights, and car rentals.
 
-## 🚀 Interests
+---
 
-* Backend development
-* Database architecture
-* Systems programming
-* Software engineering principles
-* Building real-world software systems
+### 📈 Focus Areas & Goals
 
-## 📈 Current Goals
+* **Systems Programming:** Exploring system architecture, scalable applications, and backend development.
+* **Software Engineering:** Building practical, real-world software systems while mastering professional workflows (Git, CI/CD, cloud).
+* **Algorithmic Mastery:** Continuously improving algorithmic problem-solving and understanding advanced complexity.
 
-* Build more practical software projects
-* Improve algorithmic problem solving
-* Learn professional development workflows (Git, CI/CD, cloud)
-* Explore system architecture and scalable applications
+---
 
-## 📫 Connect
+### 📫 Let's Connect
 
-* GitHub: https://github.com/OMZaky
+* **GitHub:** [@OMZaky](https://github.com/OMZaky)
